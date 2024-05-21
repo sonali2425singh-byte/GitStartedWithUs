@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Contributors Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="pixel-art-container"></div>
+
+    <script>
+        const container = document.getElementById('pixel-art-container');
+
+        for (let i = 0; i < 400; i++) { // 20 x 20 grid
+            const cell = document.createElement('div');
+            cell.classList.add('cell');
+            container.appendChild(cell);
+        }
+    </script>
+
+</body>
+</html>
