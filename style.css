@@ -9,17 +9,17 @@ body {
 
 #pixel-art-container {
     display: grid;
-    grid-template-columns: repeat(20, 1fr); /* Span across the whole width */
-    grid-template-rows: repeat(20, 1fr); /* Span across the whole height */
+    grid-template-columns: repeat(20, 1fr); /* 20 columns, each taking 1 fraction of the available space */
+    grid-template-rows: repeat(20, 1fr); /* 20 rows, each taking 1 fraction of the available space */
     gap: 1px;
+    width: 80vmin; /* Use vmin to ensure square grid */
+    height: 80vmin; /* Use vmin to ensure square grid */
     border: 1px solid #ccc; /* Optional: add border to the grid */
-    max-width: 100vw; /* Ensure the grid does not overflow */
-    max-height: 100vh; /* Ensure the grid does not overflow */
 }
 
 .cell {
-    width: calc((100vw - 21px) / 20); /* Adjust cell width to fit perfectly */
-    height: calc((100vh - 21px) / 20); /* Adjust cell height to fit perfectly */
+    width: calc((80vmin - 19px) / 20); /* Adjust cell width to fit perfectly, subtracting gap spaces */
+    height: calc((80vmin - 19px) / 20); /* Adjust cell height to fit perfectly, subtracting gap spaces */
     background-color: white; /* Default background color */
 }
 
