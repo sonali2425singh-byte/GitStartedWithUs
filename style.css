@@ -1,26 +1,58 @@
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color:pink;
+    background-color: #EEEEEE;
+    padding: 0 10vw;
+}
+
+h1 {
+    text-align: left;
+    font-size: 1vhvh;
+    color: white;
+    padding-left: 3vw;
+}
+
+header {
+    background-color: #474747;
+    height: 10vh;
+    width: 100vw;
+}
+
+footer {
+    text-align: center;
+    background-color: #252323;
+    color: white;
+    height: 10vh;
+    width: 100vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 2vh;
 }
 
 #pixel-art-container {
+    background-color: black;
     display: grid;
     grid-template-columns: repeat(20, 1fr); /* 20 columns, each taking 1 fraction of the available space */
     grid-template-rows: repeat(20, 1fr); /* 20 rows, each taking 1 fraction of the available space */
     gap: 1px;
     width: 80vmin; /* Use vmin to ensure square grid */
     height: 80vmin; /* Use vmin to ensure square grid */
-    border: 1px solid #ccc; /* Optional: add border to the grid */
+    border: 1px solid black; /* Optional: add border to the grid */
+    margin: 2vh;
 }
 
 .cell {
     width: calc((80vmin - 19px) / 20); /* Adjust cell width to fit perfectly, subtracting gap spaces */
     height: calc((80vmin - 19px) / 20); /* Adjust cell height to fit perfectly, subtracting gap spaces */
     background-color: white; /* Default background color */
+}
+
+a {
+    text-decoration: none; /* Remove underline from links */
+    color: inherit; /* Ensure link color matches surrounding text (optional) */
 }
 
 /* Customize colors for individual cells */
