@@ -76,8 +76,8 @@ a {
     background-color: red;
 }
 
-#pixel-art-container .cell:nth-child(4) {
-    background-color: pink;
+#pixel-art-container .cell:nth-child(7) {
+    background-color: orange;
 }
 /* Add more colors for other cells as needed */
 /* add */
