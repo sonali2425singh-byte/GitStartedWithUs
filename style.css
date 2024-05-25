@@ -52,7 +52,7 @@ footer {
 
 a {
     text-decoration: none; /* Remove underline from links */
-    color: inherit; /* Ensure link color matches surrounding text (optional) */
+    color: inherit; /* Ensure link color matches surrounding text ---- (optional) */
 }
 
 /* Customize colors for individual cells */
