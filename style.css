@@ -85,6 +85,9 @@ a {
 #pixel-art-container .cell:nth-child(10) {
     background-color: black;
 }
+#pixel-art-container .cell:nth-child(191) {
+    background-image: radial-gradient(rgb(206, 255, 253), rgb(91, 255, 255));
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
