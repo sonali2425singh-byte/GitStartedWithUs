@@ -85,6 +85,9 @@ a {
 #pixel-art-container .cell:nth-child(10) {
     background-color: black;
 }
+#pixel-art-container .cell:nth-child(69) {
+    background-color: orange;
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
