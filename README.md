@@ -31,7 +31,7 @@ Contributing to the canvas is easy and enjoyable:
   ```
   If everything works correctly you are ready to push.
   ```bash
-  git push
+  git push -u origin <branch_name>
   ```
   
 - **Creating PR**: 
