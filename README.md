@@ -18,6 +18,23 @@ Contributing to the canvas is easy and enjoyable:
 - **Fork** the repository
 - **Clone** it and create a `new branch`
 - **Choose Your Pixel**: Select a pixel you'd like to color.
-- **Pick Your Color**: Go to the `style.css`, choose your preferred color from the palette and add it to your grid.
-- **Add Your Details**: Provide your grid number and name `[8_yourname]` to accompany your pixel (as commit message).
-- **Submit**: Create a `PR` and await our review.
+- **Pick Your Color**: Go to the style.css, choose your preferred color from the palette and add it to your grid.
+    - Copy the part where colours are specified at the end.
+    - Add your colour and desired cell number.
+    - Make sure you are not changing the existing code. Just paste your code at the end of style.css file
+    - Save your changes
+    - Check if your changes are being applied or not.
+- **Commit changes**: Run the following commands
+  ```bash
+  git add style.css
+  git commit -m "<cell_number>_<name>"
+  ```
+  If everything works correctly you are ready to push.
+  ```bash
+  git push
+  ```
+  
+- **Creating PR**: 
+    - Go to contribute on your forked repo
+    - There you will find option to open a Pull Request (PR)
+    - Click it and wait for review
