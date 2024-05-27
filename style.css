@@ -97,6 +97,9 @@ a {
 #pixel-art-container .cell:nth-child(19) {
     background-color:DodgerBlue;
 }
+#pixel-art-container .cell:nth-child(399) {
+    background-color:beige;
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
