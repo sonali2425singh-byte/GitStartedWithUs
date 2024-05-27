@@ -11,7 +11,7 @@ body {
 
 h1 {
     text-align: left;
-    font-size: 1vhvh;
+    font-size: 1vh;
     color: white;
     padding-left: 3vw;
 }
@@ -96,6 +96,9 @@ a {
 }
 #pixel-art-container .cell:nth-child(19) {
     background-color:DodgerBlue;
+}
+#pixel-art-container .cell:nth-child(123) {
+    background-color:#aa6f73;
 }
 /* test */
 /* Add more colors for other cells as needed */
