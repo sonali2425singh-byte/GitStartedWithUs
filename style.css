@@ -100,6 +100,9 @@ a {
 #pixel-art-container .cell:nth-child(399) {
     background-color:beige;
 }
+#pixel-art-container .cell:nth-child(398) {
+    background-color:burlywood
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
