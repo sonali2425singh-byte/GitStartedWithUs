@@ -152,6 +152,9 @@ a {
 #pixel-art-container .cell:nth-child(389) {
   background-color: rgb(53, 243, 23);
 }
+#pixel-art-container .cell:nth-child(361) {
+  background-color: coral;
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
