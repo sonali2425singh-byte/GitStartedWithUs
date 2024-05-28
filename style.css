@@ -164,6 +164,10 @@ a {
   background-color: cyan;
 
 }
+
+#pixel-art-container .cell:nth-child(181) {
+  background-color: rgb(83, 0, 134);
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
