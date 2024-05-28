@@ -160,6 +160,10 @@ a {
   background-color: coral;
 
 }
+#pixel-art-container .cell:nth-child(200) {
+  background-color: cyan;
+
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
