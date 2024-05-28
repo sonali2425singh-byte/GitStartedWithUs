@@ -10,6 +10,7 @@ body {
 }
 
 h1 {
+
   text-align: left;
   font-size: 1vhvh;
   color: white;
@@ -107,11 +108,59 @@ a {
 #pixel-art-container .cell:nth-child(19) {
   background-color: DodgerBlue;
 }
+
+#pixel-art-container .cell:nth-child(123) {
+    background-color:#aa6f73;
+}
+
 #pixel-art-container .cell:nth-child(399) {
   background-color: beige;
 }
 #pixel-art-container .cell:nth-child(67) {
-  background-color: pink;
+    background-color: pink;
+  
+  #pixel-art-container .cell:nth-child(317) {
+    background: linear-gradient(to top right, #4568dc, #b06ab3);
+  }
+  
+  #pixel-art-container .cell:nth-child(381){
+      background-color: rgb(87, 24, 24);
+  }
+  
+  
+  #pixel-art-container .cell:nth-child(65) {
+      background-color: orange;
+  }
+  #pixel-art-container .cell:nth-child(65) {
+      background-color: orange;
+  }
+  #pixel-art-container .cell:nth-child(18) {
+      background-color: gold;
+  }
+  #pixel-art-container .cell:nth-child(271) {
+    background-color: gold;
+  }
+  
+  #pixel-art-container .cell:nth-child(9) {
+    background-color: rgb(17, 255, 0);
+  
+  #pixel-art-container .cell:nth-child(91) {
+      background-color: burlywood;
+  }
+  #pixel-art-container .cell:nth-child(101) {
+      background-color: yellowgreen;
+  }
+  #pixel-art-container .cell:nth-child(100) {
+      background-color: yellowgreen;
+  }
+  #pixel-art-container .cell:nth-child(104) {
+      background: repeating-linear-gradient(45deg, #606dbc, #606dbc 10px, #465298 10px, #465298 20px);
+  }
+  #pixel-art-container .cell:nth-child(389) {
+    background-color: rgb(53, 243, 23);
+  }
+  #pixel-art-container .cell:nth-child(361) {
+    background-color: coral;
 }
 /* test */
 /* Add more colors for other cells as needed */
