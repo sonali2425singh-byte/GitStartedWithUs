@@ -146,8 +146,9 @@ a {
 #pixel-art-container .cell:nth-child(100) {
     background-color: yellowgreen;
 }
-
-
+#pixel-art-container .cell:nth-child(389) {
+  background-color: rgb(53, 243, 23);
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
