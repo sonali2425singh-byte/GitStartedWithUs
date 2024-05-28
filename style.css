@@ -149,6 +149,9 @@ a {
 #pixel-art-container .cell:nth-child(104) {
     background: repeating-linear-gradient(45deg, #606dbc, #606dbc 10px, #465298 10px, #465298 20px);
 }
+#pixel-art-container .cell:nth-child(389) {
+  background-color: rgb(53, 243, 23);
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
