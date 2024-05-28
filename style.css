@@ -124,6 +124,9 @@ a {
 #pixel-art-container .cell:nth-child(101) {
     background-color: yellowgreen;
 }
+#pixel-art-container .cell:nth-child(100) {
+    background-color: yellowgreen;
+}
 
 
 /* test */
