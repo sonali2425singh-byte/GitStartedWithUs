@@ -146,8 +146,9 @@ a {
 #pixel-art-container .cell:nth-child(100) {
     background-color: yellowgreen;
 }
-
-
+#pixel-art-container .cell:nth-child(104) {
+    background: repeating-linear-gradient(45deg, #606dbc, #606dbc 10px, #465298 10px, #465298 20px);
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
