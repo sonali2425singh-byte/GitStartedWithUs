@@ -132,6 +132,9 @@ a {
 #pixel-art-container .cell:nth-child(18) {
     background-color: gold;
 }
+#pixel-art-container .cell:nth-child(271) {
+  background-color: gold;
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
