@@ -105,11 +105,16 @@ a {
     background-color:beige;
 }
 
+#pixel-art-container .cell:nth-child(398) {
+    background-color:burlywood
+
+
 #pixel-art-container .cell:nth-child(381){
     background-color: rgb(87, 24, 24);
 
 #pixel-art-container .cell:nth-child(65) {
     background-color: orange;
+
 
 
 }
