@@ -111,7 +111,7 @@ a {
 
 #pixel-art-container .cell:nth-child(123) {
     background-color:#aa6f73;
-
+}
 #pixel-art-container .cell:nth-child(399) {
   background-color: beige;
 }
@@ -121,16 +121,13 @@ a {
 
 #pixel-art-container .cell:nth-child(398) {
     background-color:burlywood
-
+}
 
 #pixel-art-container .cell:nth-child(381){
     background-color: rgb(87, 24, 24);
-
+}
 #pixel-art-container .cell:nth-child(65) {
     background-color: orange;
-
-
-
 }
 #pixel-art-container .cell:nth-child(18) {
     background-color: gold;
