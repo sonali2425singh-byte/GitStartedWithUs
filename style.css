@@ -10,6 +10,7 @@ body {
 }
 
 h1 {
+
   text-align: left;
   font-size: 1vhvh;
   color: white;
@@ -107,11 +108,29 @@ a {
 #pixel-art-container .cell:nth-child(19) {
   background-color: DodgerBlue;
 }
+
+#pixel-art-container .cell:nth-child(123) {
+    background-color:#aa6f73;
+
 #pixel-art-container .cell:nth-child(399) {
   background-color: beige;
 }
 #pixel-art-container .cell:nth-child(317) {
   background: linear-gradient(to top right, #4568dc, #b06ab3);
+}
+
+#pixel-art-container .cell:nth-child(398) {
+    background-color:burlywood
+
+
+#pixel-art-container .cell:nth-child(381){
+    background-color: rgb(87, 24, 24);
+
+#pixel-art-container .cell:nth-child(65) {
+    background-color: orange;
+
+
+
 }
 /* test */
 /* Add more colors for other cells as needed */
