@@ -112,6 +112,7 @@ a {
 #pixel-art-container .cell:nth-child(123) {
     background-color:#aa6f73;
 }
+
 #pixel-art-container .cell:nth-child(399) {
   background-color: beige;
 }
@@ -119,12 +120,13 @@ a {
   background: linear-gradient(to top right, #4568dc, #b06ab3);
 }
 
-#pixel-art-container .cell:nth-child(398) {
-    background-color:burlywood
-}
-
 #pixel-art-container .cell:nth-child(381){
     background-color: rgb(87, 24, 24);
+}
+
+
+#pixel-art-container .cell:nth-child(65) {
+    background-color: orange;
 }
 #pixel-art-container .cell:nth-child(65) {
     background-color: orange;
@@ -134,6 +136,15 @@ a {
 }
 #pixel-art-container .cell:nth-child(271) {
   background-color: gold;
+}
+#pixel-art-container .cell:nth-child(91) {
+    background-color: burlywood;
+}
+#pixel-art-container .cell:nth-child(101) {
+    background-color: yellowgreen;
+}
+#pixel-art-container .cell:nth-child(100) {
+    background-color: yellowgreen;
 }
 #pixel-art-container .cell:nth-child(389) {
   background-color: rgb(53, 243, 23);
