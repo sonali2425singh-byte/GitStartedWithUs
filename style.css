@@ -209,6 +209,10 @@ a {
   background-color: green;
 }
 
+#pixel-art-container .cell:nth-child(220) {
+  background-color: pink;
+}
+
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
