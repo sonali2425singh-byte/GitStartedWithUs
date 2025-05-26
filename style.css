@@ -190,8 +190,16 @@ a {
 #pixel-art-container .cell:nth-child(181) {
   background-color: rgb(83, 0, 134);
 }
+
 #pixel-art-container .cell:nth-child(21) {
   background-color: red;
+}
+
+#pixel-art-container .cell:nth-child(221) {
+  background-color: blue;
+}
+#pixel-art-container .cell:nth-child(222) {
+  background-color: green;
 }
 
 /* test */
