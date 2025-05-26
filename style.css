@@ -202,6 +202,24 @@ a {
   background-color: red;
 }
 
+#pixel-art-container .cell:nth-child(400) {
+  background-color: blue;
+}
+#pixel-art-container .cell:nth-child(398) {
+  background-color: pink;
+}
+#pixel-art-container .cell:nth-child(397) {
+  background-color: purple;
+}
+#pixel-art-container .cell:nth-child(396) {
+  background-color: green
+}
+#pixel-art-container .cell:nth-child(395) {
+  background-color: brown
+}
+#pixel-art-container .cell:nth-child(396) {
+  background-color: gold
+}
 #pixel-art-container .cell:nth-child(221) {
   background-color: blue;
 }
@@ -218,6 +236,7 @@ background-color: red;
 #pixel-art-container .cell:nth-child(220) {
   background-color: pink;
 }
+
 
 /* test */
 /* Add more colors for other cells as needed */
