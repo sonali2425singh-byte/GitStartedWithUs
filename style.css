@@ -236,6 +236,12 @@ background-color: red;
 #pixel-art-container .cell:nth-child(220) {
   background-color: pink;
 }
+#pixel-art-container .cell:nth-child(226) {
+  background-color: black;
+}
+#pixel-art-container .cell:nth-child(100) {
+  background-color: blue;
+}
 
 
 /* test */
