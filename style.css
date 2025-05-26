@@ -208,6 +208,9 @@ a {
 #pixel-art-container .cell:nth-child(222) {
   background-color: green;
 }
+#pixel-art-container .cell:nth-child(45) {
+  background-color: blue;
+}
 
 /* test */
 /* Add more colors for other cells as needed */
