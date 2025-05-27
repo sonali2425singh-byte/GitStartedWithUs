@@ -99,6 +99,9 @@ a {
 #pixel-art-container .cell:nth-child(11) {
   background-color: rgb(15, 151, 179);
 }
+#pixel-art-container .cell:nth-child(12) {
+  background-color: rgb(255, 255, 255);
+}
 #pixel-art-container .cell:nth-child(69) {
   background-color: orange;
 }
