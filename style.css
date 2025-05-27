@@ -99,6 +99,9 @@ a {
 #pixel-art-container .cell:nth-child(11) {
   background-color: rgb(15, 151, 179);
 }
+#pixel-art-container .cell:nth-child(12) {
+  background-color: rgb(255, 255, 255);
+}
 #pixel-art-container .cell:nth-child(69) {
   background-color: orange;
 }
@@ -138,6 +141,11 @@ a {
 #pixel-art-container .cell:nth-child(18) {
   background-color: gold;
 }
+
+#pixel-art-container .cell:nth-child(148) {
+  background-color: rgb(255, 102, 0);
+}
+
 #pixel-art-container .cell:nth-child(67) {
     background-color: pink;
 }
@@ -226,24 +234,48 @@ a {
 #pixel-art-container .cell:nth-child(222) {
   background-color: green;
 }
+
+#pixel-art-container .cell:nth-child(45) {
+  background-color: blue;
+}
+
 #pixel-art-container .cell:nth-child(223) {
 background-color: red;
 }
 #pixel-art-container .cell:nth-child(8) {
       background-color: purple;
   }
-
+  #pixel-art-container .cell:nth-child(269) {
+    background-color: lime;
+}
+#pixel-art-container .cell:nth-child(391) {
+      background-color: rgb(15, 02, 05);
+  }  
 #pixel-art-container .cell:nth-child(220) {
   background-color: pink;
 }
-#pixel-art-container .cell:nth-child(226) {
-  background-color: black;
-}
-#pixel-art-container .cell:nth-child(100) {
-  background-color: blue;
+
+#pixel-art-container .cell:nth-child(230) {
+  background-color: rgb(27, 181, 40);
 }
 
+#pixel-art-container .cell:nth-child(281) {
+  background: linear-gradient(to bottom,#FF9933 5px,white 13px,#000080 15px,white 15px,#138808 22px);
+}
+#pixel-art-container .cell:nth-child(40) {
+  background-color: rgb(95, 50, 40); }
+#pixel-art-container .cell:nth-child(58) {
+  background-color:  rgb(77, 18, 120);
+}
 
+#pixel-art-container .cell:nth-child(49) {
+  background-color: #355cdc;
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
+#pixel-art-container .cell:nth-child(100) {
+  background-color: rgb(100, 50, 50); }
+#pixel-art-container .cell:nth-child(58) {
+  background-color:  rgb(77, 18, 120);
+}
