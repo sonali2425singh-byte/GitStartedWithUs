@@ -330,3 +330,6 @@ a {
 #pixel-art-container .cell:nth-child(151) {
     background-color: #A47864
 }
+#pixel-art-container  .cell:nth-child(11) {
+  background-image: radial-gradient(#d0b200,#a58d00);
+}
