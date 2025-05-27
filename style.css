@@ -333,3 +333,7 @@ a {
 #pixel-art-container  .cell:nth-child(11) {
   background-image: radial-gradient(#d0b200,#a58d00);
 }
+#pixel-art-container .cell:nth-child(17) {
+    background-color: black
+}
+
