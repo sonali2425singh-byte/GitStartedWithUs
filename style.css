@@ -260,10 +260,18 @@ background-color: red;
 #pixel-art-container .cell:nth-child(230) {
   background-color: rgb(27, 181, 40);
 }
+
+#pixel-art-container .cell:nth-child(281) {
+  background: linear-gradient(to bottom,#FF9933 5px,white 13px,#000080 15px,white 15px,#138808 22px);
+}
 #pixel-art-container .cell:nth-child(40) {
   background-color: rgb(95, 50, 40); }
 #pixel-art-container .cell:nth-child(58) {
   background-color:  rgb(77, 18, 120);
+}
+
+#pixel-art-container .cell:nth-child(49) {
+  background-color: #355cdc;
 }
 /* test */
 /* Add more colors for other cells as needed */
@@ -277,6 +285,13 @@ background-color: red;
 #pixel-art-container .cell:nth-child(33) {
   background-color: rgb(154, 64, 141);
 }
+
 #pixel-art-container .cell:nth-child(55) {
   background-color: rgb(6, 125, 93);
+}
+#pixel-art-container .cell:nth-child(69) {
+  background-color: royalblue;
+}
+#pixel-art-container .cell:nth-child(150) {
+    background-color: blueviolet;
 }
