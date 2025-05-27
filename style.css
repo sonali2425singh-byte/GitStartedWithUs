@@ -231,6 +231,11 @@ a {
 #pixel-art-container .cell:nth-child(222) {
   background-color: green;
 }
+
+#pixel-art-container .cell:nth-child(45) {
+  background-color: blue;
+}
+
 #pixel-art-container .cell:nth-child(223) {
 background-color: red;
 }
@@ -240,6 +245,7 @@ background-color: red;
 #pixel-art-container .cell:nth-child(391) {
       background-color: rgb(15, 02, 05);
   }  
+
 
 #pixel-art-container .cell:nth-child(220) {
   background-color: pink;
