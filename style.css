@@ -336,4 +336,6 @@ a {
 #pixel-art-container .cell:nth-child(17) {
     background-color: black
 }
-
+#pixel-art-container .cell:nth-child(12) {
+    background-color: yellowgreen
+}
