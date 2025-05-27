@@ -232,7 +232,9 @@ background-color: red;
 #pixel-art-container .cell:nth-child(8) {
       background-color: purple;
   }
-
+  #pixel-art-container .cell:nth-child(269) {
+    background-color: lime;
+}
 #pixel-art-container .cell:nth-child(220) {
   background-color: pink;
 }
