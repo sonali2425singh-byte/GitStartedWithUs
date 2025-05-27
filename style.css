@@ -237,7 +237,7 @@ background-color: red;
   background-color: pink;
 }
 #pixel-art-container .cell:nth-child(17) {
-  background-color: black;
+  background-color: black !important;
 }
 
 
