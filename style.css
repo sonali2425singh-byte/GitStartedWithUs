@@ -202,16 +202,61 @@ a {
   background-color: red;
 }
 
+#pixel-art-container .cell:nth-child(400) {
+  background-color: blue;
+}
+#pixel-art-container .cell:nth-child(398) {
+  background-color: pink;
+}
+#pixel-art-container .cell:nth-child(397) {
+  background-color: purple;
+}
+#pixel-art-container .cell:nth-child(396) {
+  background-color: green
+}
+#pixel-art-container .cell:nth-child(395) {
+  background-color: brown
+}
+#pixel-art-container .cell:nth-child(396) {
+  background-color: gold
+}
 #pixel-art-container .cell:nth-child(221) {
   background-color: blue;
 }
 #pixel-art-container .cell:nth-child(222) {
   background-color: green;
 }
+
 #pixel-art-container .cell:nth-child(45) {
   background-color: blue;
 }
 
+#pixel-art-container .cell:nth-child(223) {
+background-color: red;
+}
+#pixel-art-container .cell:nth-child(8) {
+      background-color: purple;
+  }
+#pixel-art-container .cell:nth-child(391) {
+      background-color: rgb(15, 02, 05);
+  }  
+
+
+#pixel-art-container .cell:nth-child(220) {
+  background-color: pink;
+}
+#pixel-art-container .cell:nth-child(60) {
+  background-color: rgb(192, 255, 226);
+}
+
+#pixel-art-container .cell:nth-child(230) {
+  background-color: rgb(27, 181, 40);
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
+
+/*sakshi */
+.pixel-42 {
+  background-color: #ff69b4;
+}

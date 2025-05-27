@@ -1,6 +1,6 @@
 # GitStartedWithUs
 
-Welcome to GitStartedWithUs, a collaborative platform for creative individuals to color pixels, leave their mark, and express themselves through art! Here you have the opportunity to contribute to a collective canvas by coloring individual pixels and sharing your unique identity with the world.
+Welcome to GitStartedWithUs a collaborative platform for creative individuals to color pixels, leave their mark, and express themselves through art! Here you have the opportunity to contribute to a collective canvas by coloring individual pixels and sharing your unique identity with the world.
 
 ## Getting started
 
