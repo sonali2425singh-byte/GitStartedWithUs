@@ -284,3 +284,6 @@ background-color: red;
 #pixel-art-container .cell:nth-child(69) {
   background-color: royalblue;
 }
+#pixel-art-container .cell:nth-child(150) {
+    background-color: blueviolet
+}
