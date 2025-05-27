@@ -303,3 +303,7 @@ background-color: red;
 #pixel-art-container .cell:nth-child(1225) {
     background-color: navy
 }
+
+#pixel-art-container .cell:nth-child(151) {
+    background-color: #A47864
+}
