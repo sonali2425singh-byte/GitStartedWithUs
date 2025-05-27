@@ -246,6 +246,9 @@ background-color: red;
 #pixel-art-container .cell:nth-child(230) {
   background-color: rgb(27, 181, 40);
 }
+#pixel-art-container .cell:nth-child(281) {
+  background: linear-gradient(to bottom,#FF9933 5px,white 13px,#000080 15px,white 15px,#138808 22px);
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
