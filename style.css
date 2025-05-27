@@ -310,6 +310,9 @@ a {
 #pixel-art-container .cell:nth-child(23) {
   background-color: green;
 }
+#pixel-art-container .cell:nth-child(15){
+    background-color: orange
+}
 #pixel-art-container .cell:nth-child(1225) {
   background-color: navy;
 }
