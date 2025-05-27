@@ -261,7 +261,9 @@ background-color: red;
   background-color: rgb(27, 181, 40);
 }
 #pixel-art-container .cell:nth-child(40) {
-  background-color: rgb(95, 50, 40);
+  background-color: rgb(95, 50, 40); }
+#pixel-art-container .cell:nth-child(58) {
+  background-color:  rgb(77, 18, 120);
 }
 /* test */
 /* Add more colors for other cells as needed */
