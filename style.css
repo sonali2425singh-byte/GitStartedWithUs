@@ -323,6 +323,9 @@ a {
 #pixel-art-container .cell:nth-child(284){
   background-color: #4568dc;
 }
+#pixel-art-container .cell:nth-child(37){
+  background-color: #07ee1a;
+}
 #pixel-art-container .cell:nth-child(250) {
   background-color:  rgb(91, 19, 12);
 }
