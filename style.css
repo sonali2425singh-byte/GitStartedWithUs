@@ -300,3 +300,7 @@ background-color: red;
 #pixel-art-container .cell:nth-child(23) {
     background-color: green
 }
+#pixel-art-container .cell:nth-child(17) {
+    background-color: black
+}
+
