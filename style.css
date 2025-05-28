@@ -307,6 +307,10 @@ a {
 #pixel-art-container .cell:nth-child(33) {
   background-color: rgb(154, 64, 141);
 }
+
+#pixel-art-container .cell:nth-child(55) {
+  background-color: rgb(6, 125, 93);
+}
 #pixel-art-container .cell:nth-child(69) {
   background-color: royalblue;
 }
@@ -318,8 +322,8 @@ a {
 }
 
 #pixel-art-container .cell:nth-child(150) {
-    background-color: blueviolet
-} 
+    background-color: blueviolet;
+}
 #pixel-art-container .cell:nth-child(153) {
     background-color: rgb(12, 122, 150)
 }
