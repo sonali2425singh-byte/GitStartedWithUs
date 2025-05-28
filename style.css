@@ -217,6 +217,10 @@ background-color: red;
   background-color: pink;
 }
 
+#pixel-art-container .cell:nth-child(229) {
+  background-color: rgb(51, 0, 255);
+}
+
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
