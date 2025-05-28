@@ -372,6 +372,9 @@ a {
     background-color: yellowgreen
 }
 
+#pixel-art-container .cell:nth-child(70) {
+    background-color: steelblue
+}
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
