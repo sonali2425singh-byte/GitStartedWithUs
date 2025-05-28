@@ -197,7 +197,9 @@ a {
 }
 #pixel-art-container .cell:nth-child(200) {
   background-color: cyan;
+
 }
+
 #pixel-art-container .cell:nth-child(95) {
   background-color: lime;
 }
@@ -254,12 +256,23 @@ a {
 #pixel-art-container .cell:nth-child(220) {
   background-color: pink;
 }
+#pixel-art-container .cell:nth-child(126) {
+  background-color: red;
+}
 #pixel-art-container .cell:nth-child(60) {
   background-color: rgb(192, 255, 226);
 }
 
+#pixel-art-container .cell:nth-child(229) {
+  background-color: rgb(51, 0, 255);
+}
+
 #pixel-art-container .cell:nth-child(230) {
   background-color: rgb(27, 181, 40);
+}
+
+#pixel-art-container .cell:nth-child(30) {
+  background-color: rgb(11, 200, 152);
 }
 
 #pixel-art-container .cell:nth-child(281) {
@@ -282,13 +295,13 @@ a {
 #pixel-art-container .cell:nth-child(49) {
   background-color: #355cdc;
 }
-/* test */
-/* Add more colors for other cells as needed */
-/* add */
-
 /*sakshi */
 .pixel-42 {
   background-color: #ff69b4;
+}
+/*sunil kumar*/
+#pixel-art-container .cell:nth-child(153) {
+  background-color: #6e6e6e;
 }
 
 #pixel-art-container .cell:nth-child(33) {
@@ -323,6 +336,9 @@ a {
 #pixel-art-container .cell:nth-child(284){
   background-color: #4568dc;
 }
+#pixel-art-container .cell:nth-child(37){
+  background-color: #07ee1a;
+}
 #pixel-art-container .cell:nth-child(250) {
   background-color:  rgb(91, 19, 12);
 }
@@ -336,6 +352,26 @@ a {
 #pixel-art-container .cell:nth-child(17) {
     background-color: black
 }
+#pixel-art-container .cell:nth-child(234) {
+  background-color:  rgb(164, 97, 91);
+#pixel-art-container .cell:nth-child(137) {
+  background-color: #331805;
+}
+#pixel-art-container .cell:nth-child(456) {
+   background-color: rgb(18, 30, 89)
+}
+#pixel-art-container .cell:nth-child(41) {
+   background-color: rgb(18, 60, 89)
+}
+#pixel-art-container .cell:nth-child(1667) {
+    background-color: yellow
+}
+
+
 #pixel-art-container .cell:nth-child(12) {
     background-color: yellowgreen
 }
+
+/* test */
+/* Add more colors for other cells as needed */
+/* add */
