@@ -197,7 +197,9 @@ a {
 }
 #pixel-art-container .cell:nth-child(200) {
   background-color: cyan;
+
 }
+
 #pixel-art-container .cell:nth-child(95) {
   background-color: lime;
 }
@@ -296,6 +298,10 @@ a {
 /*sakshi */
 .pixel-42 {
   background-color: #ff69b4;
+}
+/*sunil kumar*/
+#pixel-art-container .cell:nth-child(153) {
+  background-color: #6e6e6e;
 }
 
 #pixel-art-container .cell:nth-child(33) {
