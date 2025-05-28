@@ -352,7 +352,6 @@ a {
 #pixel-art-container .cell:nth-child(17) {
     background-color: black
 }
-
 #pixel-art-container .cell:nth-child(234) {
   background-color:  rgb(164, 97, 91);
 #pixel-art-container .cell:nth-child(137) {
@@ -368,7 +367,11 @@ a {
     background-color: yellow
 }
 
-  
+
+#pixel-art-container .cell:nth-child(12) {
+    background-color: yellowgreen
+}
+
 /* test */
 /* Add more colors for other cells as needed */
 /* add */
