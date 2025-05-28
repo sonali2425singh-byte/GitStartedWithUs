@@ -256,6 +256,7 @@ a {
 #pixel-art-container .cell:nth-child(220) {
   background-color: pink;
 }
+
 #pixel-art-container .cell:nth-child(126) {
   background-color: red;
 }
@@ -295,6 +296,12 @@ a {
 #pixel-art-container .cell:nth-child(49) {
   background-color: #355cdc;
 }
+
+
+#pixel-art-container .cell:nth-child(100) {
+  background-color: rgb(100, 50, 50); }
+#pixel-art-container .cell:nth-child(58) {
+  background-color:  rgb(77, 18, 120);
 /*sakshi */
 .pixel-42 {
   background-color: #ff69b4;
