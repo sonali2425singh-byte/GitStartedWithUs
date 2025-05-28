@@ -256,6 +256,10 @@ a {
 #pixel-art-container .cell:nth-child(220) {
   background-color: pink;
 }
+#pixel-art-container .cell:nth-child(17) {
+  background-color: black !important;
+}
+
 
 #pixel-art-container .cell:nth-child(126) {
   background-color: red;
