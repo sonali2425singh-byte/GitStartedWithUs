@@ -325,6 +325,10 @@ a {
 #pixel-art-container .cell:nth-child(69) {
   background-color: royalblue;
 }
+
+#pixel-art-container .cell:nth-child(264) {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
 #pixel-art-container .cell:nth-child(195) {
   background-color: rgb(250, 94, 255);
 }
