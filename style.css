@@ -261,6 +261,10 @@ a {
   background-color: rgb(192, 255, 226);
 }
 
+#pixel-art-container .cell:nth-child(229) {
+  background-color: rgb(51, 0, 255);
+}
+
 #pixel-art-container .cell:nth-child(230) {
   background-color: rgb(27, 181, 40);
 }
@@ -289,10 +293,6 @@ a {
 #pixel-art-container .cell:nth-child(49) {
   background-color: #355cdc;
 }
-/* test */
-/* Add more colors for other cells as needed */
-/* add */
-
 /*sakshi */
 .pixel-42 {
   background-color: #ff69b4;
@@ -361,3 +361,8 @@ a {
 #pixel-art-container .cell:nth-child(1667) {
     background-color: yellow
 }
+
+  
+/* test */
+/* Add more colors for other cells as needed */
+/* add */
