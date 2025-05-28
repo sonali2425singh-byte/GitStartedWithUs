@@ -371,7 +371,18 @@ a {
 #pixel-art-container .cell:nth-child(12) {
     background-color: yellowgreen
 }
-
-/* test */
-/* Add more colors for other cells as needed */
-/* add */
+#pixel-art-container .cell:nth-child(13) {
+    background-color: #ffb6c1
+}
+#pixel-art-container .cell:nth-child(14) {
+    background-color: #ff4500
+}
+#pixel-art-container .cell:nth-child(15) {
+    background-color: #8b4513
+}
+#pixel-art-container .cell:nth-child(16) {
+    background-color: #2e8b57
+}
+#pixel-art-container .cell:nth-child(17) {
+    background-color: #4682b4
+}
