@@ -365,6 +365,6 @@ background: linear-gradient(to top right, #4568dc, #b06ab3);
     background-color: yellow
 }
 
-/* test */
-/* Add more colors for other cells as needed */
-/* add */
+#pixel-art-container .cell:nth-child(2000) {
+  background-color: rgb(255, 0, 0);
+}
